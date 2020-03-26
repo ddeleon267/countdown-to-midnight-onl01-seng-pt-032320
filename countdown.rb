@@ -6,7 +6,7 @@
 #The method should return "HAPPY NEW YEAR!" after the loop finishes. 
 
 
-def countdown
+def countdown(int)
   
 end
 
