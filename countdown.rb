@@ -8,5 +8,7 @@
 
 def countdown(int)
   
+  while (condition)
+  
 end
 
