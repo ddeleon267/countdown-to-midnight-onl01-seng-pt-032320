@@ -6,7 +6,7 @@
 
 def countdown(int) # 10
   
-  while (condition)
+  while (int != 0)
     "#{number} SECOND(S)!"
   end
   
