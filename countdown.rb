@@ -7,7 +7,7 @@ require "pry"
 def countdown(int)
   
   while (int > 0) 
-    "#{int} SECOND(S)!"
+    put"#{int} SECOND(S)!"
     int -= 1
     
   end
