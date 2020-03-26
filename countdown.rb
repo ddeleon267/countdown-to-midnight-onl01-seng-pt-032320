@@ -4,11 +4,10 @@
 #The method should return "HAPPY NEW YEAR!" after the loop finishes. 
 
 
-def countdown(int) # 10
+def countdown(int)
   
   while (int > 0) 
     "#{number} SECOND(S)!"
-    int = int - 1
     int -= 1
     
   end
