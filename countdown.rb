@@ -5,7 +5,7 @@ require "pry"
 
 
 def countdown(int)
-  
+  binding.pry
   while (int > 0) 
     "#{int} SECOND(S)!"
     int -= 1
